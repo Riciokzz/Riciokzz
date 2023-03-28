@@ -21,9 +21,14 @@ Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), a self-taugh
 ## Skills
 
 ⚡️ Python\
+⚡️ LiDAR\
+⚡️ Unity\
 ⚡️ GeoMap\
 ⚡️ AutoCAD\
 ⚡️ QGIS\
-⚡️ Unity\
+⚡️ ArcGIS\
+⚡️ Civil 3D\
 ⚡️ MYSQL\
-⚡️ GITHUB
+⚡️ Git\
+⚡️ GitHub\
+⚡️ Blender\
