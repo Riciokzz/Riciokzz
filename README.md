@@ -31,4 +31,4 @@ Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), a self-taugh
 ⚡️ MYSQL\
 ⚡️ Git\
 ⚡️ GitHub\
-⚡️ Blender\
+⚡️ Blender
