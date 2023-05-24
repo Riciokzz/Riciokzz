@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), from Lithuania. Passionate IT professional with expertise in Python programming, web development, and data analysis. I thrive on solving complex problems and enjoy creating innovative solutions that make a positive impact. Skilled in various programming languages, including Python, C, C#, HTML, and CSS, with a strong foundation in database management using MySQL. Complemented by licenses and certifications from renowned institutions such as HarvardX, Udemy, and the University of Michigan.
+Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), from Lithuania. Passionate self-taught programmer with expertise in Python programming, web development, and data analysis. I thrive on solving complex problems and enjoy creating innovative solutions that make a positive impact. Skilled in various programming languages, including Python, C, C#, HTML, and CSS, with a strong foundation in database management using MySQL. Complemented by licenses and certifications from renowned institutions such as HarvardX, Udemy, and the University of Michigan.
 
 I am constantly seeking new challenges and opportunities to expand my knowledge and skills. With a strong mathematical background and excellent problem-solving abilities, I approach projects with a meticulous and detail-oriented mindset. My passion for game development, combined with proficiency in Unity, enables me to create immersive and engaging experiences.
 
