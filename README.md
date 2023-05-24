@@ -14,21 +14,28 @@
 
 <br />
 
-Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), a self-taught Python programmer from Lithuania. Strong measurement engineering professional with a Master's degree from VILNIUS TECH university.
+Hi, I'm [Ričardas Poskrebyševas](https://riciokzz.github.io/cv/), from Lithuania. Passionate IT professional with expertise in Python programming, web development, and data analysis. I thrive on solving complex problems and enjoy creating innovative solutions that make a positive impact. Skilled in various programming languages, including Python, C, C#, HTML, and CSS, with a strong foundation in database management using MySQL. Complemented by licenses and certifications from renowned institutions such as HarvardX, Udemy, and the University of Michigan.
+
+I am constantly seeking new challenges and opportunities to expand my knowledge and skills. With a strong mathematical background and excellent problem-solving abilities, I approach projects with a meticulous and detail-oriented mindset. My passion for game development, combined with proficiency in Unity, enables me to create immersive and engaging experiences.
+
+Collaborative and effective communication skills allow me to work seamlessly within teams, contributing to a positive and productive work environment. I am committed to continuous learning and professional growth, constantly exploring emerging technologies and staying updated with industry trends.
+
+I am excited to collaborate on meaningful projects and contribute to the IT community. Feel free to explore my repositories and reach out to discuss potential collaborations or opportunities.
 
 ---
 
-## Skills
+## Technical Skills
 
-⚡️ Python\
-⚡️ LiDAR\
-⚡️ Unity\
-⚡️ GeoMap\
-⚡️ AutoCAD\
-⚡️ QGIS\
-⚡️ ArcGIS\
-⚡️ Civil 3D\
-⚡️ MYSQL\
-⚡️ Git\
-⚡️ GitHub\
-⚡️ Blender
+⚡️ **Programming:** Python, C, C#\
+⚡️ **Web Development:** HTML, CSS, JavaScript\
+⚡️ **Game Development:** Unity\
+⚡️ **Version Control:** Git, GitHub\
+⚡️ **Database:** MySQL\
+⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
+⚡️ **2D/3D Modeling:** Blender
+
+## Additional Skills
+⚡️ **Strong mathematical background**\
+⚡️ **Effective problem-solving skills**\
+⚡️ **Excellent communication and teamwork abilities**
+
