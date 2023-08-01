@@ -30,7 +30,7 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 ⚡️ **Web Development:** HTML, CSS, JavaScript\
 ⚡️ **Game Development:** Unity\
 ⚡️ **Version Control:** Git, GitHub\
-⚡️ **Database:** MySQL\
+⚡️ **Database:** MySQL, NoSQL\
 ⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
 ⚡️ **2D/3D Modeling:** Blender
 
