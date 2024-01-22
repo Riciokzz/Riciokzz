@@ -31,7 +31,7 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 ⚡️ **Version Control:** Git, GitHub\
 ⚡️ **Database:** MySQL, SQLite3\
 ⚡️ **Game Development:** Unity\
-⚡️ **2D/3D Modeling:** Blender
+⚡️ **2D/3D Modeling:** Blender\
 ⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
 
 
