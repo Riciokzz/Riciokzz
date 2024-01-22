@@ -28,11 +28,12 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 
 ⚡️ **Programming:** Python, C, C#\
 ⚡️ **Web Development:** HTML, CSS, JavaScript\
-⚡️ **Game Development:** Unity\
 ⚡️ **Version Control:** Git, GitHub\
-⚡️ **Database:** MySQL, NoSQL\
-⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
+⚡️ **Database:** MySQL, SQLite3\
+⚡️ **Game Development:** Unity\
 ⚡️ **2D/3D Modeling:** Blender
+⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
+
 
 ## Additional Skills
 ⚡️ **Strong mathematical background**\
