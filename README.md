@@ -32,7 +32,7 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 ⚡️ **Database:** MySQL, SQLite3\
 ⚡️ **Game Development:** Unity\
 ⚡️ **2D/3D Modeling:** Blender\
-⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
+⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR
 
 
 ## Additional Skills
