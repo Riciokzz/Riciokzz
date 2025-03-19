@@ -37,7 +37,7 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 ⚡️ **Game Development:** Unity\
 ⚡️ **Geospatial Tools:** GeoMap, AutoCAD, QGIS, ArcGIS, LiDAR\
 ⚡️ **Monitoring & Automation:** Zabbix, Airflow\
-⚡️ **Operating Systems:** Linux\
+⚡️ **Operating Systems:** Linux
 
 
 ## Additional Skills
