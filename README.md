@@ -29,7 +29,7 @@ I am excited to collaborate on meaningful projects and contribute to the IT comm
 ## Technical Skills
 
 ⚡️ **Programming:** Python, C, C#\
-⚡️ **Data Engineering:** Building ETL Pipelines, Impala, Hive, PostgreSQL\
+⚡️ **Data Engineering:** Building ETL Pipelines, Impala, Hive\
 ⚡️ **Cloud Platforms:** Azure, AWS\
 ⚡️ **Web Development:** HTML, CSS, JavaScript\
 ⚡️ **Version Control:** Git, GitHub, GitLab\
