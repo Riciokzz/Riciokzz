@@ -1,4 +1,4 @@
-## Hello - Sveiki - Guten Tag
+## Hello - Labas - Guten Tag
 
 <a href="https://www.instagram.com/riciokzz/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
